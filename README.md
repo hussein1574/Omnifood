@@ -27,8 +27,6 @@ You can visit the website: [Omnifood Website](https://omnifood-hussein.netlify.a
 
 ## License
 
-This project is a Reddit clone and is not affiliated with or endorsed by Reddit. It is for educational and demonstration purposes only.
-
-Copyright © 2023 Hussein Medhat
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
